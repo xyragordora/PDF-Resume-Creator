@@ -1,0 +1,16 @@
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\Json2\bin\Debug\netcoreapp3.1\Json2.exe
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\Json2\bin\Debug\netcoreapp3.1\Json2.deps.json
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\Json2\bin\Debug\netcoreapp3.1\Json2.runtimeconfig.json
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\Json2\bin\Debug\netcoreapp3.1\Json2.runtimeconfig.dev.json
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\Json2\bin\Debug\netcoreapp3.1\Json2.dll
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\Json2\bin\Debug\netcoreapp3.1\Json2.pdb
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\Json2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\Json2\obj\Debug\netcoreapp3.1\Json2.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\Json2\obj\Debug\netcoreapp3.1\Json2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\Json2\obj\Debug\netcoreapp3.1\Json2.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\Json2\obj\Debug\netcoreapp3.1\Json2.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\Json2\obj\Debug\netcoreapp3.1\Json2.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\Json2\obj\Debug\netcoreapp3.1\Json2.csproj.CopyComplete
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\Json2\obj\Debug\netcoreapp3.1\Json2.dll
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\Json2\obj\Debug\netcoreapp3.1\Json2.pdb
+C:\Users\chris\OneDrive\Desktop\PROGRAMS\Json2\obj\Debug\netcoreapp3.1\Json2.genruntimeconfig.cache
